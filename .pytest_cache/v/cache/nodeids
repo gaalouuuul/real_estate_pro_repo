@@ -1,0 +1,4 @@
+[
+  "tests/test_api.py::test_admin_stats",
+  "tests/test_api.py::test_auth_and_property_flow"
+]
