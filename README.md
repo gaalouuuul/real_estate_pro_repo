@@ -60,13 +60,7 @@ Pour peupler la base avec des données de test (utilisateurs, biens, pièces) :
 python seed.py
 ```
 
-Comptes créés :
 
-| Email | Mot de passe | Rôle |
-|---|---|---|
-| admin@example.com | admin123 | admin |
-| owner@example.com | owner123 | owner |
-| viewer@example.com | viewer123 | user |
 
 ---
 
